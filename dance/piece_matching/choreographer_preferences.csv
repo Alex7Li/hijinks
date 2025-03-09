@@ -1,0 +1,11 @@
+Dance	Min Dancers	Max Dancers	Practice Time	Choice	1	2	3	4
+A	1	2	Thursday 5PM	First Choice	A1	B2	B3	B4
+				Second Choice	B5			
+B	2	3	Thursday 6PM	First Choice	C2	B3	A1	
+				Second Choice	B8	B2		
+C	2	2	Thursday 6PM	First Choice	A1	B5		
+				Second Choice	B2	C2		
+D	1	1	Friday 5PM	First Choice	B3	B8		
+				Second Choice	B4			
+E	1	1	Friday 5PM	First Choice	B2	B5	B8	A1
+				Second Choice	B3	C2		

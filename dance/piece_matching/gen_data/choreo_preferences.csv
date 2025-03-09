@@ -1,0 +1,41 @@
+Dance	Min Dancers	Max Dancers	Practice Time	Choice	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28	29	30	31	32	33	34	35	36	37	38	39	40
+A	12	19	Monday 0PM	First Choice	A117	A192	A67	A195	A103	A9	A211	A21																																
+				Second Choice	A36	A87	A70	A216	A88	A140	A58	A193	A39	A87	A174	A88	A81	A165	A25	A77	A72	A9	A148	A115	A208																			
+B	9	10	Monday 0PM	First Choice	A127	A32	A31	A202	A151	A163	A203	A114	A183	A28	A34	A128																												
+				Second Choice	A128	A164	A53	A133																																				
+C	10	14	Monday 1PM	First Choice	A203	A68	A6	A196	A47	A127	A131	A204																																
+				Second Choice	A100	A180	A78	A143	A148	A227	A186	A23	A207	A141	A117	A85	A48	A49	A69	A169	A163	A192																						
+D	9	16	Monday 2PM	First Choice	A0	A138	A114	A43	A186	A127	A23	A187	A130	A121	A98																													
+				Second Choice	A62	A163	A222	A123	A195	A82	A174	A227	A148	A209	A50	A155	A14	A41	A58	A193	A36	A10	A86																					
+E	10	13	Monday 3PM	First Choice	A184	A188	A77	A30	A24	A125	A2	A3																																
+				Second Choice	A94	A226	A107	A13	A112	A40	A72	A19	A95	A72	A154	A194	A180	A67	A61																									
+F	9	15	Monday 3PM	First Choice	A117	A189	A83	A161	A104	A160	A228	A121	A70	A213	A31																													
+				Second Choice	A13	A71	A184	A152	A79	A41	A18	A40	A182	A207	A11																													
+G	11	11	Monday 4PM	First Choice	A212	A138	A182	A165	A125	A156	A111	A2	A27																															
+				Second Choice	A211	A217	A151	A53	A51	A174	A148	A181	A29	A67	A35																													
+H	10	12	Monday 5PM	First Choice	A88	A33	A133	A36	A0	A203	A34	A197	A126	A181	A80	A190																												
+				Second Choice	A136	A189	A129	A209	A112	A35	A120	A91	A168	A116	A36																													
+I	13	15	Monday 6PM	First Choice	A111	A91	A85	A167	A39	A203	A150	A158	A145	A198	A199																													
+				Second Choice	A18	A92	A43	A83	A177	A41	A93	A174	A149	A201	A89																													
+J	8	11	Monday 6PM	First Choice	A93	A123	A87	A160	A147	A72	A199	A87	A13	A58	A81																													
+				Second Choice	A120	A116	A183	A64	A203	A220	A164	A25	A32																															
+K	15	19	Monday 7PM	First Choice	A173	A26	A74	A52	A177	A219	A51	A227																																
+				Second Choice	A105	A18	A117	A34	A51	A158	A181	A58	A171	A55	A18	A173	A87	A193	A70	A53	A48	A94	A59	A80	A154	A124	A163	A58	A177	A106	A201	A44												
+L	15	15	Monday 8PM	First Choice	A22	A79	A217	A8	A227	A6	A209	A199																																
+				Second Choice	A212	A217	A194	A60	A144	A56	A114	A151	A24	A4	A100	A49	A87	A30	A54	A153	A20																							
+M	8	12	Monday 9PM	First Choice	A209	A148	A117	A3	A126	A42	A65	A20	A36																															
+				Second Choice	A68	A208	A112	A175	A138	A104	A222	A91	A43																															
+N	15	15	Monday 9PM	First Choice	A186	A36	A99	A69	A134	A3	A226	A121	A168	A188	A161																													
+				Second Choice	A28	A68	A26	A224	A109	A179	A201	A181	A197	A161	A135	A125	A94	A72	A84	A135	A195																							
+O	9	12	Monday 10PM	First Choice	A7	A149	A229	A220	A136	A171	A46	A0	A104	A179	A38	A89																												
+				Second Choice	A74	A226	A123	A87	A96	A83	A26																																	
+P	14	18	Monday 11PM	First Choice	A205	A158	A109	A87	A226	A163	A73	A218	A183																															
+				Second Choice	A26	A118	A22	A204	A207	A98	A90	A51	A46	A208	A61	A188	A47	A104	A128	A138	A203	A141	A71	A94																				
+Q	10	14	Monday 12PM	First Choice	A78	A229	A219	A100	A159	A221	A178	A174	A93	A114																														
+				Second Choice	A161	A12	A224	A80	A66	A200	A125	A138	A112	A218	A155	A184	A120	A65	A192																									
+R	12	18	Monday 12PM	First Choice	A101	A123	A197	A109	A73	A100	A182	A77	A149	A159																														
+				Second Choice	A81	A35	A136	A25	A21	A173	A229	A214	A144	A153	A119	A165	A127	A129	A133	A198	A140	A90	A74																					
+S	9	12	Monday 13PM	First Choice	A89	A131	A125	A206	A82	A197	A186	A132	A17	A197	A191	A94																												
+				Second Choice	A152	A131	A69	A168	A164	A58	A177																																	
+T	14	16	Monday 14PM	First Choice	A107	A52	A110	A64	A76	A118	A73	A146	A4	A7																														
+				Second Choice	A131	A48	A76	A37	A116	A48	A109	A210	A179	A49	A71	A90	A177	A29	A3	A74	A84	A65																						
